@@ -29,4 +29,6 @@ To compile and run any of the C++ scripts on your local machine, ensure you have
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/HastiKabiri/C-Plus-Plus-Projects.git](https://github.com/HastiKabiri/C-Plus-Plus-Projects.git)
+   git clone https://github.com/HastiKabiri/University-Coursework.git
+   cd University-Coursework/CPP/Practice
+   ```

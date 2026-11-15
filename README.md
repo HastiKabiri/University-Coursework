@@ -69,10 +69,10 @@ There is no single combined application or build system. See the [C++ guide](CPP
 
 The imported projects originate from:
 
-- [HastiKabiri/CPP-practice](https://github.com/HastiKabiri/CPP-practice)
-- [HastiKabiri/singly-linked-list-student-system-CPP](https://github.com/HastiKabiri/singly-linked-list-student-system-CPP)
+- [C++ Practice](CPP/Practice/), from historical repository `HastiKabiri/CPP-practice`.
+- [Singly Linked List Student Record Management System](CPP/Assignments/Singly-Linked-List-Student-System/), from historical repository `HastiKabiri/singly-linked-list-student-system-CPP`.
 
-Their original repositories and full commit histories remain unchanged. This repository uses reviewed source snapshots rather than subtree history imports, so identifying student-ID comments and compiled artifacts from the old histories are not republished. The imported project guides record the source commits; original README files are retained as `README.original.md`.
+The coursework is consolidated here; the old repository names are historical identifiers, not live dependencies. This repository uses reviewed source snapshots rather than subtree history imports, so identifying student-ID comments and compiled artifacts from the old histories are not republished. Both complete original histories are preserved in verified local Git bundles outside this public repository. See [import provenance and backup recovery](CPP/IMPORT-PROVENANCE.md) for source commit IDs and restore commands. Imported README content is retained as `README.original.md`; its obsolete clone example has been corrected for this repository.
 
 Two attribution comments have had student IDs removed; executable code is unchanged. Compiled executables and machine-specific IDE settings are excluded. The owner confirmed that the student datasets are synthetic and that the dataset guide and programme table may be publicly shared. The retained ZIP contains an earlier source version and its dataset guide, not compiled executables.
 

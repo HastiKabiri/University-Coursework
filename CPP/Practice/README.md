@@ -1,6 +1,6 @@
 # C++ Practice
 
-Programming exercises, lab work, and study notes imported from [CPP-practice](https://github.com/HastiKabiri/CPP-practice) at commit [`df492a1`](https://github.com/HastiKabiri/CPP-practice/commit/df492a113748cdb2797abbe1a4dff1d6dbad5bf7).
+Programming exercises, lab work, and study notes imported from historical repository `HastiKabiri/CPP-practice` at commit `df492a113748cdb2797abbe1a4dff1d6dbad5bf7`. See [import provenance and backup recovery](../IMPORT-PROVENANCE.md).
 
 ## Contents
 
@@ -17,4 +17,4 @@ Programming exercises, lab work, and study notes imported from [CPP-practice](ht
 
 Compile complete exercises individually; these files are not intended to link into one executable. See the [C++ guide](../README.md) for commands.
 
-The [original README](README.original.md) is preserved for reference; its old setup example is incomplete. Student IDs were removed only from the first-line attribution comments in `Lab/lab3.cpp` and `Lab/LinkedList.cpp`. All executable statements are unchanged. Original compiled binaries were not imported.
+The [original README](README.original.md) is preserved for reference; its clone example now points to this consolidated repository. Student IDs were removed only from the first-line attribution comments in `Lab/lab3.cpp` and `Lab/LinkedList.cpp`. All executable statements are unchanged. Original compiled binaries were not imported.

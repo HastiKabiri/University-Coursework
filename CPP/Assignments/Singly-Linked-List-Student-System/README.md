@@ -1,6 +1,6 @@
 # Singly Linked List Student Record Management System
 
-A C++ data structures assignment from the CT077-3-2 Data Structures & Algorithms module at Asia Pacific University. Imported from [singly-linked-list-student-system-CPP](https://github.com/HastiKabiri/singly-linked-list-student-system-CPP) at commit [`eac678f`](https://github.com/HastiKabiri/singly-linked-list-student-system-CPP/commit/eac678fee3d2cd9ce5c2d8b8149c45742f6168e0).
+A C++ data structures assignment from the CT077-3-2 Data Structures & Algorithms module at Asia Pacific University. Imported from historical repository `HastiKabiri/singly-linked-list-student-system-CPP` at commit `eac678fee3d2cd9ce5c2d8b8149c45742f6168e0`. See [import provenance and backup recovery](../../IMPORT-PROVENANCE.md).
 
 ## Verified implementation
 
