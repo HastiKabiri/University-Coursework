@@ -1,0 +1,52 @@
+# Compiled binaries and build products
+*.exe
+*.dll
+*.so
+*.so.*
+*.dylib
+*.o
+*.obj
+*.a
+*.lib
+*.pdb
+*.ilk
+*.out
+/build/
+**/build/
+**/output/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# IDE caches and machine-specific settings
+.vscode/
+.idea/
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Temporary and OS-generated files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+*.local
+*.local.json
